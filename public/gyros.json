@@ -1,0 +1,101 @@
+{
+  "gyroszok": [
+    {
+      "nev": "Csípős Gyros Pita",
+      "ar": 1900,
+      "csiposKellE": true,
+      "id": "Uf-Nhd3MzqM"
+    },
+    {
+      "nev": "Falafel Pita",
+      "ar": 1700,
+      "csiposKellE": false,
+      "id": "fJAZX1YJf2w"
+    },
+    {
+      "nev": "Csípős Falafel Pita",
+      "ar": 1800,
+      "csiposKellE": true,
+      "id": "79WKqhjrQzw"
+    },
+    {
+      "nev": "Gyros Tál",
+      "ar": 2800,
+      "csiposKellE": false,
+      "id": "gyros-tal-01"
+    },
+    {
+      "nev": "Csípős Gyros Tál",
+      "ar": 2900,
+      "csiposKellE": true,
+      "id": "gyros-tal-02"
+    },
+    {
+      "nev": "Falafel Tál",
+      "ar": 2600,
+      "csiposKellE": false,
+      "id": "falafel-tal-01"
+    },
+    {
+      "nev": "Gyros Dürüm",
+      "ar": 2100,
+      "csiposKellE": false,
+      "id": "gyros-durum-01"
+    },
+    {
+      "nev": "Csípős Gyros Dürüm",
+      "ar": 2200,
+      "csiposKellE": true,
+      "id": "gyros-durum-02"
+    },
+    {
+      "nev": "Falafel Dürüm",
+      "ar": 2000,
+      "csiposKellE": false,
+      "id": "falafel-durum-01"
+    },
+    {
+      "nev": "Gyros Box",
+      "ar": 2300,
+      "csiposKellE": false,
+      "id": "gyros-box-01"
+    },
+    {
+      "nev": "Csípős Gyros Box",
+      "ar": 2400,
+      "csiposKellE": true,
+      "id": "gyros-box-02"
+    },
+    {
+      "nev": "Falafel Box",
+      "ar": 2200,
+      "csiposKellE": false,
+      "id": "falafel-box-01"
+    },
+    {
+      "nev": "Gyros Extra Sajttal",
+      "ar": 2400,
+      "csiposKellE": false,
+      "id": "gyros-sajt-01"
+    },
+    {
+      "nev": "Vegán Falafel Pita",
+      "ar": 1750,
+      "csiposKellE": false,
+      "id": "vegan-falafel-01"
+    },
+    {
+      "nev": "Falafel Pita",
+      "ar": 30000,
+      "csiposKellE": true,
+      "id": "26mVvLfkuFI"
+    },
+    {
+      "nev": "Halumi tál",
+      "ar": 1200,
+      "csiposKellE": true,
+      "id": "clbofNm1Xes"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

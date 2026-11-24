@@ -1,0 +1,9 @@
+body {
+  min-height: 100vh;
+  color: #fff;
+  background-color: #111;
+  background-image: url("/backgound.png");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
